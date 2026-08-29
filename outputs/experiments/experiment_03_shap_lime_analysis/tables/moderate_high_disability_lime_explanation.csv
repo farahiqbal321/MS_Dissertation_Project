@@ -1,0 +1,16 @@
+Scenario,Patient_ID,LIME_Feature_Condition,LIME_Weight,Absolute_LIME_Weight,Direction
+Moderate_High_Disability,7,Total_Abnormal_Neuro_Findings > 0.73,0.09683190824031548,0.09683190824031548,Towards Moderate/High Disability
+Moderate_High_Disability,7,Age_of_onset > 0.81,0.06607962559159851,0.06607962559159851,Towards Moderate/High Disability
+Moderate_High_Disability,7,-0.67 < Coordination <= 1.48,0.06295520913773038,0.06295520913773038,Towards Moderate/High Disability
+Moderate_High_Disability,7,-0.64 < Cerebella <= 1.56,0.042907135009594206,0.042907135009594206,Towards Moderate/High Disability
+Moderate_High_Disability,7,Age > 0.81,0.04015486407571653,0.04015486407571653,Towards Moderate/High Disability
+Moderate_High_Disability,7,Presenting_Symptom_Sensory <= 0.00,0.038002297579591324,0.038002297579591324,Towards Moderate/High Disability
+Moderate_High_Disability,7,Presenting_Symptom_Motor <= 0.00,-0.023068466501568043,0.023068466501568043,Towards Low Disability
+Moderate_High_Disability,7,Sensory <= -0.67,-0.02193116258827814,0.02193116258827814,Towards Low Disability
+Moderate_High_Disability,7,Visual <= -0.71,-0.016565353247651782,0.016565353247651782,Towards Low Disability
+Moderate_High_Disability,7,Gait <= -0.64,-0.012621292272981838,0.012621292272981838,Towards Low Disability
+Moderate_High_Disability,7,Types_of_Medicines_Rebif <= 0.00,0.012512548330997122,0.012512548330997122,Towards Moderate/High Disability
+Moderate_High_Disability,7,0.00 < Types_of_Medicines_Betaferon <= 1.00,0.008957898016291006,0.008957898016291006,Towards Moderate/High Disability
+Moderate_High_Disability,7,-0.64 < Sensory_System <= 1.56,0.008018645791121645,0.008018645791121645,Towards Moderate/High Disability
+Moderate_High_Disability,7,Presenting_Symptom_Motor & Sensory <= 0.00,0.007409587038592465,0.007409587038592465,Towards Moderate/High Disability
+Moderate_High_Disability,7,"Presenting_Symptom_Sensory & Visual ,Balance , Motor, Sexual,Fatigue <= 0.00",-0.007023557768298629,0.007023557768298629,Towards Low Disability

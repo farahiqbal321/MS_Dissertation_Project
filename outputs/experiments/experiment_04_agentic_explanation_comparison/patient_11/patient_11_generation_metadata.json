@@ -1,0 +1,24 @@
+{
+    "Patient_ID": 11,
+    "LLM": "llama3.1:8b",
+    "LLM_Runtime": "Ollama",
+    "Temperature": 0.2,
+    "Seed": 42,
+    "Embedding_Model": "all-MiniLM-L6-v2",
+    "Top_N_SHAP": 5,
+    "Top_K_Evidence": 3,
+    "Prediction_Probability": 0.5072828093182383,
+    "Predicted_Class": 1,
+    "Actual_Class": 0,
+    "Retrieval_Terms": [
+        "neurological",
+        "disability",
+        "age",
+        "onset",
+        "coordination",
+        "balance",
+        "motor",
+        "mobility"
+    ],
+    "Semantic_Query": "multiple sclerosis disability neurological disability age onset coordination balance motor mobility"
+}

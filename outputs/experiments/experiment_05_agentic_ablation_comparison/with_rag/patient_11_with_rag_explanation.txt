@@ -1,0 +1,28 @@
+**Prediction Summary**
+
+The machine-learning prediction for Patient ID 11 indicates a moderate/high disability probability of 0.5073, which is close to the classification threshold.
+
+**Main Factors Supporting Moderate/High Disability**
+
+1. Total_Abnormal_Neuro_Findings: The SHAP contribution of 0.0729 suggests that this feature contributes towards moderate/high disability.
+2. Motor_System: The SHAP contribution of 0.0233 indicates that this feature also supports moderate/high disability.
+
+**Main Factors Supporting Low Disability**
+
+1. Age_of_onset: The SHAP contribution of -0.0366 suggests that a younger age of onset is associated with lower disability.
+2. Age: The SHAP contribution of -0.0260 indicates that older age is associated with lower disability.
+3. Coordination: The SHAP contribution of -0.0247 suggests that better coordination is associated with lower disability.
+
+**Clinical Context from Retrieved Evidence**
+
+The retrieved clinical evidence emphasizes the importance of considering multiple neurological and functional domains in the assessment of patients with multiple sclerosis [NG220_001]. Comprehensive reviews should document the nature and extent of disability as part of the comprehensive review [NG220_002]. Additionally, motor and coordination function should be considered in the assessment [NG220_003].
+
+**Uncertainty and Limitations**
+
+The predicted probability is close to 0.50, indicating borderline classification. This suggests that there may be conflicting factors contributing to the prediction, and caution should be exercised when interpreting these results.
+
+**Decision-Support Summary**
+
+This machine-learning prediction should be interpreted within the patient's existing clinical assessment and alongside the retrieved clinical evidence. The predicted moderate/high disability probability of 0.5073 is borderline, indicating a need for careful consideration of all relevant factors in making decisions about this patient's care. This output is intended to support, not replace, professional clinical judgment.
+
+Note: The model prediction should be used as one aspect of the comprehensive review and assessment of the patient, alongside other clinical evidence and expert opinion.

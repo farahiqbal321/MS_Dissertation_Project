@@ -1,0 +1,6 @@
+{
+    "classifier__C": 0.014271483774997193,
+    "classifier__class_weight": "balanced",
+    "classifier__gamma": 0.005762487216478602,
+    "classifier__kernel": "rbf"
+}

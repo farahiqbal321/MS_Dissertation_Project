@@ -1,0 +1,31 @@
+Here is the structured explanation:
+
+**Prediction Summary**
+
+The machine-learning model predicts a low disability class for Patient ID 37 with a probability of 0.1659, indicating a borderline classification (within +/- 0.05 of 0.50).
+
+**Main Factors Supporting Moderate/High Disability**
+
+There are no main factors supporting moderate/high disability, as the predicted class is low and the probability is relatively low (0.1659).
+
+**Main Factors Supporting Low Disability**
+
+The following factors contribute to the prediction of low disability:
+
+* Total_Abnormal_Neuro_Findings: The model suggests that fewer abnormal neuro findings are associated with lower disability (SHAP contribution: -0.1071).
+* Motor_System: The model indicates that better motor system function is associated with lower disability (SHAP contribution: -0.0439).
+* Age_of_onset: The model suggests that earlier age of onset is associated with lower disability (SHAP contribution: -0.0356).
+* Coordination: The model indicates that better coordination is associated with lower disability (SHAP contribution: -0.0278).
+* Age: The model suggests that younger age is associated with lower disability (SHAP contribution: -0.0252).
+
+**Model-Based Context**
+
+The model's prediction is based on the input features provided, and the SHAP contributions indicate the relative importance of each feature in the prediction.
+
+**Uncertainty and Limitations**
+
+The predicted probability of 0.1659 is close to the classification threshold, indicating some uncertainty in the model's prediction. The model's performance and reliability should be evaluated in the context of the specific patient data and clinical context.
+
+**Decision-Support Summary**
+
+This explanation is intended to support, not replace, professional clinical judgment. The model's prediction of low disability for Patient ID 37 should be considered in conjunction with other clinical information and assessments. The patient's actual disability class is 0, which may indicate that the model's prediction is not entirely accurate. Further evaluation and assessment are necessary to determine the patient's true disability status.

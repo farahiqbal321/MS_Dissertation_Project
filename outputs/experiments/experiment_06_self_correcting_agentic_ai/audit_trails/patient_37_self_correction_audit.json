@@ -1,0 +1,126 @@
+{
+    "Patient_ID": 37,
+    "Baseline_Validation": {
+        "Validation_Status": "FLAGGED",
+        "Number_of_Flags": 1,
+        "Flags": [
+            {
+                "Flag_Type": "Unsupported_Uncertainty_Interpretation",
+                "Term": "borderline/close to threshold",
+                "Reason": "The predicted probability is 0.1659, which is 0.3341 away from the 0.50 classification threshold and therefore falls outside the predefined borderline margin of +/- 0.05."
+            }
+        ],
+        "Predicted_Probability": 0.1658717310903824,
+        "Distance_From_Threshold": 0.3341282689096176,
+        "Borderline_Margin": 0.05,
+        "Expected_Borderline_Status": false,
+        "SHAP_Direction_Audit": [
+            {
+                "Feature": "Total_Abnormal_Neuro_Findings",
+                "SHAP_Value": -0.1070691262627873,
+                "Expected_Direction": "towards low disability"
+            },
+            {
+                "Feature": "Motor_System",
+                "SHAP_Value": -0.0438995942093753,
+                "Expected_Direction": "towards low disability"
+            },
+            {
+                "Feature": "Age_of_onset",
+                "SHAP_Value": -0.0356444602001065,
+                "Expected_Direction": "towards low disability"
+            },
+            {
+                "Feature": "Coordination",
+                "SHAP_Value": -0.0277678264583675,
+                "Expected_Direction": "towards low disability"
+            },
+            {
+                "Feature": "Age",
+                "SHAP_Value": -0.0252223290366898,
+                "Expected_Direction": "towards low disability"
+            }
+        ]
+    },
+    "Attempt_1_Validation": {
+        "Validation_Status": "FLAGGED",
+        "Number_of_Flags": 1,
+        "Flags": [
+            {
+                "Flag_Type": "Unsupported_Uncertainty_Interpretation",
+                "Term": "borderline/close to threshold",
+                "Reason": "The predicted probability is 0.1659, which is 0.3341 away from the 0.50 classification threshold and therefore falls outside the predefined borderline margin of +/- 0.05."
+            }
+        ],
+        "Predicted_Probability": 0.1658717310903824,
+        "Distance_From_Threshold": 0.3341282689096176,
+        "Borderline_Margin": 0.05,
+        "Expected_Borderline_Status": false,
+        "SHAP_Direction_Audit": [
+            {
+                "Feature": "Total_Abnormal_Neuro_Findings",
+                "SHAP_Value": -0.1070691262627873,
+                "Expected_Direction": "towards low disability"
+            },
+            {
+                "Feature": "Motor_System",
+                "SHAP_Value": -0.0438995942093753,
+                "Expected_Direction": "towards low disability"
+            },
+            {
+                "Feature": "Age_of_onset",
+                "SHAP_Value": -0.0356444602001065,
+                "Expected_Direction": "towards low disability"
+            },
+            {
+                "Feature": "Coordination",
+                "SHAP_Value": -0.0277678264583675,
+                "Expected_Direction": "towards low disability"
+            },
+            {
+                "Feature": "Age",
+                "SHAP_Value": -0.0252223290366898,
+                "Expected_Direction": "towards low disability"
+            }
+        ]
+    },
+    "Attempt_2_Validation": {
+        "Validation_Status": "PASS",
+        "Number_of_Flags": 0,
+        "Flags": [],
+        "Predicted_Probability": 0.1658717310903824,
+        "Distance_From_Threshold": 0.3341282689096176,
+        "Borderline_Margin": 0.05,
+        "Expected_Borderline_Status": false,
+        "SHAP_Direction_Audit": [
+            {
+                "Feature": "Total_Abnormal_Neuro_Findings",
+                "SHAP_Value": -0.1070691262627873,
+                "Expected_Direction": "towards low disability"
+            },
+            {
+                "Feature": "Motor_System",
+                "SHAP_Value": -0.0438995942093753,
+                "Expected_Direction": "towards low disability"
+            },
+            {
+                "Feature": "Age_of_onset",
+                "SHAP_Value": -0.0356444602001065,
+                "Expected_Direction": "towards low disability"
+            },
+            {
+                "Feature": "Coordination",
+                "SHAP_Value": -0.0277678264583675,
+                "Expected_Direction": "towards low disability"
+            },
+            {
+                "Feature": "Age",
+                "SHAP_Value": -0.0252223290366898,
+                "Expected_Direction": "towards low disability"
+            }
+        ]
+    },
+    "Correction_Attempts": 2,
+    "Final_Status": "PASS",
+    "Final_Flags": 0
+}

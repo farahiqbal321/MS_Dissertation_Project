@@ -1,0 +1,7 @@
+Patient_ID,Condition,Word_Count,SHAP_Feature_Coverage,SHAP_Features_Matched,Section_Coverage,Sections_Matched,Evidence_ID_Mentions,Evidence_IDs_Matched,Faithfulness_Flags,Flagged_Terms
+7,With-RAG,284,1.0,total abnormal neuro findings; age of onset; coordination; age; motor system,0.667,prediction summary; clinical evidence; limitations; decision-support summary,3,NG220_001; NG220_003; NG220_002,0,
+7,No-RAG,331,1.0,total abnormal neuro findings; age of onset; coordination; age; motor system,0.667,prediction summary; patient-specific factors; limitations; decision-support summary,0,,1,older
+11,With-RAG,288,1.0,total abnormal neuro findings; age of onset; age; coordination; motor system,0.667,prediction summary; clinical evidence; limitations; decision-support summary,3,NG220_001; NG220_003; NG220_002,3,younger; older; better
+11,No-RAG,265,1.0,total abnormal neuro findings; age of onset; age; coordination; motor system,0.667,prediction summary; patient-specific factors; limitations; decision-support summary,0,,0,
+37,With-RAG,320,1.0,total abnormal neuro findings; motor system; age of onset; coordination; age,0.667,prediction summary; clinical evidence; limitations; decision-support summary,3,NG220_001; NG220_003; NG220_002,0,
+37,No-RAG,291,1.0,total abnormal neuro findings; motor system; age of onset; coordination; age,0.5,prediction summary; limitations; decision-support summary,0,,2,younger; better

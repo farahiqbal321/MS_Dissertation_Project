@@ -1,0 +1,48 @@
+SHAP_Rank,Feature,Mean_Absolute_SHAP,Mean_Importance,SD_Importance,Permutation_Rank,Rank_Difference,Available_In_Both_Methods
+1.0,Total_Abnormal_Neuro_Findings,0.08118,0.09767857142857136,0.036410330400367764,1.0,0.0,True
+2.0,Age_of_onset,0.032169,0.02267857142857137,0.017515481490291224,3.0,1.0,True
+3.0,Motor_System,0.032163,0.01845238095238089,0.018241886961312345,4.0,1.0,True
+4.0,Coordination,0.02949,0.02428571428571421,0.009884537502212876,2.0,2.0,True
+5.0,Age,0.021541,0.005714285714285624,0.008380817098475268,7.0,2.0,True
+6.0,Cerebella,0.017084,0.005654761904761881,0.005073510080323811,8.0,2.0,True
+8.0,Sensory,0.009346,0.00505952380952378,0.0057046670037419955,9.0,1.0,True
+9.0,Pyramidal,0.00899,-0.0021428571428571464,0.004479735171958747,27.0,18.0,True
+11.0,Visual,0.008072,0.0021428571428571317,0.003400680204068014,11.0,0.0,True
+12.0,Gait,0.007384,0.001130952380952377,0.002545643426231312,14.0,2.0,True
+13.0,Sensory_System,0.004741,0.001964285714285622,0.0027413283189688794,12.0,1.0,True
+16.0,Disease_Duration,0.00294,0.004166666666666634,0.0021789291925860656,10.0,6.0,True
+18.0,Sphincters,0.001734,0.0003571428571428559,0.0007142857142857118,16.0,2.0,True
+19.0,Optic_discs,0.000881,0.0005357142857142838,0.0009392698713130621,15.0,4.0,True
+22.0,Nystagmus,0.000625,0.0,0.0,20.0,2.0,True
+24.0,Bowel_and_bladder_function,0.000352,0.00023809523809523725,0.0006070261325705676,17.0,7.0,True
+26.0,Brain_stem,0.0,0.0,0.0,19.0,7.0,True
+27.0,Mental,0.0,0.0,0.0,22.0,5.0,True
+28.0,Speech,0.0,0.0,0.0,21.0,7.0,True
+30.0,Swallowing,0.0,0.0,0.0,24.0,6.0,True
+31.0,Mobility,0.0,0.0,0.0,23.0,8.0,True
+32.0,Mental_State,0.0,0.0,0.0,25.0,7.0,True
+33.0,Ocular_Movement,0.0,0.0,0.0,26.0,7.0,True
+7.0,Presenting_Symptom_Sensory,0.014966,,,,,False
+10.0,Presenting_Symptom_Motor,0.00823,,,,,False
+14.0,Types_of_Medicines_Rebif,0.004046,,,,,False
+15.0,Types_of_Medicines_Betaferon,0.003016,,,,,False
+17.0,Presenting_Symptom_Visual,0.002289,,,,,False
+20.0,Co_morbidity_No,0.000857,,,,,False
+21.0,Gender_F,0.000703,,,,,False
+23.0,Gender_M,0.00038,,,,,False
+25.0,Types_of_Medicines_Gelenia,0.000263,,,,,False
+29.0,Types_of_Medicines_Avonex,0.0,,,,,False
+34.0,Presenting_Symptom_Balance,0.0,,,,,False
+35.0,Types_of_Medicines_Tysabri,0.0,,,,,False
+36.0,Presenting_Symptom_Motor & Visual,0.0,,,,,False
+37.0,Presenting_Symptom_Motor & Sensory,0.0,,,,,False
+38.0,Presenting_Symptom_Motor & Behavioural,0.0,,,,,False
+39.0,Presenting_Symptom_Pain,0.0,,,,,False
+40.0,Presenting_Symptom_Sensory & Visual,0.0,,,,,False
+41.0,Presenting_Symptom_Sensory & Motor,0.0,,,,,False
+42.0,"Presenting_Symptom_Sensory & Visual ,Balance , Motor, Sexual,Fatigue",0.0,,,,,False
+43.0,Co_morbidity_Yes,0.0,,,,,False
+,Co_morbidity,,0.0,0.0,18.0,,False
+,Gender,,0.0016666666666666607,0.0006410910484683912,13.0,,False
+,Presenting_Symptom,,0.015773809523809468,0.00873703282758998,5.0,,False
+,Types_of_Medicines,,0.006071428571428535,0.004164965639175198,6.0,,False

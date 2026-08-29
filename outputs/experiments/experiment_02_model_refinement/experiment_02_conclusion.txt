@@ -1,0 +1,9 @@
+Experiment 2 evaluated four candidate models using repeated stratified five-fold cross-validation with ten repeats before and after hyperparameter optimisation.
+
+The tuned Clinical Random Forest achieved the strongest overall repeated cross-validation performance, with a mean ROC-AUC of 0.8303, mean accuracy of 0.7464, mean recall of 0.7850 and mean F1-score of 0.7193. Its train-validation accuracy gap was reduced to 0.0947, indicating substantially lower overfitting than the untuned baseline.
+
+The tuned Clinical Logistic Regression model remained highly competitive, achieving a mean ROC-AUC of 0.8246 and mean F1-score of 0.6937, while demonstrating the smallest positive train-validation accuracy gap among the leading candidates. It was therefore retained as the interpretable comparator model.
+
+The tuned Support Vector Machine and Multimodal XGBoost models achieved reasonable ROC-AUC values but weak threshold-based precision, recall and F1-scores. They were therefore not selected for the main explainability analysis.
+
+The tuned Clinical Random Forest was selected as the primary predictive model for the subsequent SHAP and LIME explainability stage.

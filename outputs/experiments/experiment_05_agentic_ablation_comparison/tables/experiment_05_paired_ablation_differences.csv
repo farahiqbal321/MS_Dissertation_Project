@@ -1,0 +1,4 @@
+Patient_ID,Word_Count_Difference,SHAP_Coverage_Difference,Section_Coverage_Difference,Evidence_Mention_Difference,Faithfulness_Flag_Difference,SHAP_Coverage_Difference_Percentage_Points,Section_Coverage_Difference_Percentage_Points
+7,-47,0.0,0.0,3,-1,0.0,0.0
+11,23,0.0,0.0,3,3,0.0,0.0
+37,29,0.0,0.16700000000000004,3,-2,0.0,16.7

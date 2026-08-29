@@ -1,0 +1,8 @@
+{
+    "classifier__class_weight": "balanced_subsample",
+    "classifier__max_depth": 4,
+    "classifier__max_features": "sqrt",
+    "classifier__min_samples_leaf": 6,
+    "classifier__min_samples_split": 9,
+    "classifier__n_estimators": 312
+}

@@ -1,0 +1,32 @@
+Here is the structured explanation:
+
+**Prediction Summary**
+
+The machine-learning model predicts a moderate/high disability level for Patient 11 with a probability of 0.5073. This prediction is borderline, as it is within +/- 0.05 of 0.50.
+
+**Main Factors Supporting Moderate/High Disability**
+
+The model identifies the following factors as contributing to the prediction of moderate/high disability:
+
+* Total_Abnormal_Neuro_Findings: The presence of abnormal neuro findings is associated with a moderate/high disability level, with a SHAP contribution of 0.0729.
+* Motor_System: The motor system is also associated with moderate/high disability, with a SHAP contribution of 0.0233.
+
+**Main Factors Supporting Low Disability**
+
+The model identifies the following factors as contributing to the prediction of low disability:
+
+* Age_of_onset: The age of onset is associated with low disability, with a SHAP contribution of -0.0366.
+* Age: The patient's age is also associated with low disability, with a SHAP contribution of -0.0260.
+* Coordination: The patient's coordination is associated with low disability, with a SHAP contribution of -0.0247.
+
+**Model-Based Context**
+
+The model is trained to predict disability levels based on a combination of patient-specific factors. The SHAP contributions provide insight into the relative importance of each factor in the prediction.
+
+**Uncertainty and Limitations**
+
+The prediction is borderline, indicating that the model is uncertain about the patient's disability level. The model's performance and the SHAP contributions should be interpreted in the context of the patient's individual characteristics and clinical presentation.
+
+**Decision-Support Summary**
+
+This explanation is intended to support, not replace, professional clinical judgment. The model's prediction and SHAP contributions should be considered in conjunction with other clinical information and assessments to inform decision-making.

@@ -1,0 +1,16 @@
+Scenario,Patient_ID,LIME_Feature_Condition,LIME_Weight,Absolute_LIME_Weight,Direction
+Low_Disability,37,Total_Abnormal_Neuro_Findings <= -0.64,-0.13363025951690624,0.13363025951690624,Towards Low Disability
+Low_Disability,37,Coordination <= -0.67,-0.06524309848072418,0.06524309848072418,Towards Low Disability
+Low_Disability,37,Age_of_onset <= -0.94,-0.040661758316721454,0.040661758316721454,Towards Low Disability
+Low_Disability,37,Age <= -1.00,-0.03692155029364706,0.03692155029364706,Towards Low Disability
+Low_Disability,37,Cerebella <= -0.64,-0.03653351927234629,0.03653351927234629,Towards Low Disability
+Low_Disability,37,0.00 < Presenting_Symptom_Sensory <= 1.00,-0.03350391354128295,0.03350391354128295,Towards Low Disability
+Low_Disability,37,Presenting_Symptom_Pain <= 0.00,0.02228298969500419,0.02228298969500419,Towards Moderate/High Disability
+Low_Disability,37,Sensory <= -0.67,-0.021170478411608684,0.021170478411608684,Towards Low Disability
+Low_Disability,37,Visual <= -0.71,-0.019071298988669754,0.019071298988669754,Towards Low Disability
+Low_Disability,37,Presenting_Symptom_Motor <= 0.00,-0.01818942242753544,0.01818942242753544,Towards Low Disability
+Low_Disability,37,-0.64 < Sensory_System <= 1.56,0.01165828041755186,0.01165828041755186,Towards Moderate/High Disability
+Low_Disability,37,Gait <= -0.64,-0.01099341493260861,0.01099341493260861,Towards Low Disability
+Low_Disability,37,Types_of_Medicines_Rebif > 0.00,-0.010839591060673169,0.010839591060673169,Towards Low Disability
+Low_Disability,37,Presenting_Symptom_Visual <= 0.00,0.007255650019224873,0.007255650019224873,Towards Moderate/High Disability
+Low_Disability,37,Nystagmus <= -0.41,-0.006461312650648995,0.006461312650648995,Towards Low Disability

@@ -1,0 +1,4 @@
+Patient_ID,Scenario,Actual_Class,Predicted_Class,Prediction_Probability,Prediction_Correct,Top_SHAP_Features,Number_of_SHAP_Features,Retrieved_Evidence_Count,Retrieved_Evidence_IDs,Agentic_Explanation_Generated,Faithfulness_Status,Faithfulness_Flags
+7,Moderate/High Disability,1,1,0.7243029394976479,True,Total_Abnormal_Neuro_Findings; Age_of_onset; Coordination; Age; Motor_System,5,3,NG220_003; NG220_001; NG220_002,True,PASS,0
+11,Borderline,0,1,0.5072828093182383,False,Total_Abnormal_Neuro_Findings; Age_of_onset; Age; Coordination; Motor_System,5,3,NG220_003; NG220_001; NG220_002,True,FLAGGED,3
+37,Low Disability,0,0,0.1658717310903824,True,Total_Abnormal_Neuro_Findings; Motor_System; Age_of_onset; Coordination; Age,5,3,NG220_003; NG220_001; NG220_002,True,FLAGGED,1

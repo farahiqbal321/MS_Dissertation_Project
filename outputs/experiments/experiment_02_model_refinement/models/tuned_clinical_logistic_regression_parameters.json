@@ -1,0 +1,6 @@
+{
+    "classifier__C": 0.14445251022763064,
+    "classifier__class_weight": null,
+    "classifier__penalty": "l1",
+    "classifier__solver": "liblinear"
+}

@@ -1,0 +1,4 @@
+Scenario,Patient_ID,Top_10_SHAP_LIME_Shared_Features,Top_10_Feature_Jaccard_Similarity,Direction_Agreement_Rate,Shared_Features
+Low_Disability,37,8,0.6666666666666666,0.9333333333333333,"Age, Age_of_onset, Cerebella, Coordination, Presenting_Symptom_Sensory, Sensory, Total_Abnormal_Neuro_Findings, Visual"
+Moderate_High_Disability,7,6,0.42857142857142855,0.9333333333333333,"Age, Age_of_onset, Cerebella, Coordination, Presenting_Symptom_Sensory, Total_Abnormal_Neuro_Findings"
+Borderline,11,8,0.6666666666666666,1.0,"Age, Age_of_onset, Cerebella, Coordination, Presenting_Symptom_Sensory, Sensory, Total_Abnormal_Neuro_Findings, Visual"

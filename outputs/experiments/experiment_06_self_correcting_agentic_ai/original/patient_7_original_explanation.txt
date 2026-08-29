@@ -1,0 +1,33 @@
+**Prediction Summary**
+
+The machine-learning prediction for Patient ID 7 indicates a moderate/high disability probability of 0.7243, suggesting that the patient is likely to have moderate or high disability.
+
+**Main Factors Supporting Moderate/High Disability**
+
+Based on the SHAP contributions, the following factors support a moderate/high disability classification:
+
+* Total Abnormal Neuro Findings: Contributes towards moderate/high disability (SHAP contribution: 0.0671)
+* Age of Onset: Contributes towards moderate/high disability (SHAP contribution: 0.0447)
+* Coordination: Contributes towards moderate/high disability (SHAP contribution: 0.0391)
+* Age: Contributes towards moderate/high disability (SHAP contribution: 0.0276)
+* Motor System: Contributes towards moderate/high disability (SHAP contribution: 0.0251)
+
+**Main Factors Supporting Low Disability**
+
+There are no SHAP contributions indicating factors that support a low disability classification.
+
+**Clinical Context from Retrieved Evidence**
+
+The retrieved clinical evidence highlights the importance of considering multiple neurological and functional domains in the assessment of patients with Multiple Sclerosis [NG220_001]. The nature and extent of disability should be documented as part of the comprehensive review [NG220_002]. Additionally, motor and coordination function should be considered in the comprehensive review [NG220_003].
+
+**Uncertainty and Limitations**
+
+The prediction probability is close to 0.75, indicating a moderate level of uncertainty. The model's performance and limitations should be taken into account when interpreting this prediction.
+
+**Decision-Support Summary**
+
+This machine-learning prediction is intended to support, not replace, professional clinical judgment. The predicted moderate/high disability classification for Patient ID 7 should be interpreted within the patient's existing clinical assessment and alongside the retrieved clinical evidence. Clinicians should consider the SHAP contributions and clinical context when making decisions about patient care.
+
+**Note**
+
+The output of this explanation is intended to support decision-making, not replace professional clinical judgment. The predicted disability class does not imply a diagnosis or disease progression assessment.

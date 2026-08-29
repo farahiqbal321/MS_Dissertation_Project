@@ -1,0 +1,44 @@
+Transformed_Feature,Feature_Position
+Age,0
+Age_of_onset,1
+Pyramidal,2
+Cerebella,3
+Brain_stem,4
+Sensory,5
+Sphincters,6
+Visual,7
+Mental,8
+Speech,9
+Motor_System,10
+Sensory_System,11
+Coordination,12
+Gait,13
+Bowel_and_bladder_function,14
+Mobility,15
+Mental_State,16
+Optic_discs,17
+Nystagmus,18
+Ocular_Movement,19
+Swallowing,20
+Disease_Duration,21
+Total_Abnormal_Neuro_Findings,22
+Gender_F,23
+Gender_M,24
+Types_of_Medicines_Avonex,25
+Types_of_Medicines_Betaferon,26
+Types_of_Medicines_Gelenia,27
+Types_of_Medicines_Rebif,28
+Types_of_Medicines_Tysabri,29
+Presenting_Symptom_Balance,30
+Presenting_Symptom_Motor,31
+Presenting_Symptom_Motor & Behavioural,32
+Presenting_Symptom_Motor & Sensory,33
+Presenting_Symptom_Motor & Visual,34
+Presenting_Symptom_Pain,35
+Presenting_Symptom_Sensory,36
+Presenting_Symptom_Sensory & Motor,37
+Presenting_Symptom_Sensory & Visual,38
+"Presenting_Symptom_Sensory & Visual ,Balance , Motor, Sexual,Fatigue",39
+Presenting_Symptom_Visual,40
+Co_morbidity_No,41
+Co_morbidity_Yes,42

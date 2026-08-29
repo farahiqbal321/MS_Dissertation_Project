@@ -1,0 +1,3 @@
+Condition,Mean_Word_Count,Mean_SHAP_Feature_Coverage,Mean_Section_Coverage,Mean_Evidence_ID_Mentions,Mean_Faithfulness_Flags,Total_Evidence_ID_Mentions,Total_Faithfulness_Flags,Mean_SHAP_Feature_Coverage_Percent,Mean_Section_Coverage_Percent
+No-RAG,295.667,1.0,0.611,0.0,1.0,0,3,100.0,61.1
+With-RAG,297.333,1.0,0.667,3.0,1.0,9,3,100.0,66.7

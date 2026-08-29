@@ -1,0 +1,275 @@
+2026-08-12 20:01:27 | INFO | Experiment 4 started.
+2026-08-12 20:01:27 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-12 20:01:27 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-12 20:19:11 | INFO | Experiment 4 started.
+2026-08-12 20:19:11 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-12 20:19:11 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-12 20:19:11 | INFO | Clinical knowledge base loaded successfully.
+2026-08-12 20:26:42 | INFO | Experiment 4 started.
+2026-08-12 20:26:42 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-12 20:26:42 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-12 20:26:42 | INFO | Clinical knowledge base loaded successfully.
+2026-08-12 20:26:42 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-12 20:35:28 | INFO | Experiment 4 started.
+2026-08-12 20:35:28 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-12 20:35:28 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-12 20:35:28 | INFO | Clinical knowledge base loaded successfully.
+2026-08-12 20:35:28 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-12 20:35:29 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 00:42:07 | INFO | Experiment 4 started.
+2026-08-13 00:42:07 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 00:42:07 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 00:42:07 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 00:42:07 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 00:42:07 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 00:53:27 | INFO | Experiment 4 started.
+2026-08-13 00:53:27 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 00:53:27 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 00:53:27 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 00:53:27 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 00:53:27 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 00:57:59 | INFO | Experiment 4 started.
+2026-08-13 00:57:59 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 00:57:59 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 00:57:59 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 00:57:59 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 00:57:59 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 18:22:44 | INFO | Experiment 4 started.
+2026-08-13 18:22:44 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 18:22:44 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 18:22:44 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 18:22:44 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 18:22:44 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 18:22:50 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-13 18:29:22 | INFO | Experiment 4 started.
+2026-08-13 18:29:22 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 18:29:22 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 18:29:22 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 18:29:22 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 18:29:22 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 18:29:28 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-13 18:29:28 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-13 18:34:36 | INFO | Experiment 4 started.
+2026-08-13 18:34:36 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 18:34:36 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 18:34:36 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 18:34:36 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 18:34:36 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 18:34:44 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-13 18:34:44 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-13 18:38:07 | INFO | Experiment 4 started.
+2026-08-13 18:38:07 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 18:38:07 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 18:38:07 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 18:38:07 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 18:38:07 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 18:38:12 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-13 18:38:12 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-13 18:41:36 | INFO | Experiment 4 started.
+2026-08-13 18:41:36 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 18:41:36 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 18:41:36 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 18:41:36 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 18:41:36 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 18:41:44 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-13 18:41:44 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-13 22:13:23 | INFO | Experiment 4 started.
+2026-08-13 22:13:23 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 22:13:23 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 22:13:23 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 22:13:23 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 22:13:23 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 22:13:28 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-13 22:13:28 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-13 22:29:12 | INFO | Experiment 4 started.
+2026-08-13 22:29:12 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 22:29:12 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 22:29:12 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 22:29:12 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 22:29:12 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 22:29:21 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-13 22:29:21 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-13 22:34:28 | INFO | Experiment 4 started.
+2026-08-13 22:34:28 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 22:34:28 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 22:34:28 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 22:34:28 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 22:34:28 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 22:34:35 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-13 22:34:35 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-13 22:38:56 | INFO | Experiment 4 started.
+2026-08-13 22:38:56 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 22:38:56 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 22:38:56 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 22:38:56 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 22:38:56 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 22:39:02 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-13 22:39:02 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-13 22:43:24 | INFO | Experiment 4 started.
+2026-08-13 22:43:24 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 22:43:24 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 22:43:24 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 22:43:24 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 22:43:24 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 22:43:29 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-13 22:43:29 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-13 22:44:46 | INFO | Patient 11 Agentic AI prompt, explanation and generation metadata saved successfully.
+2026-08-13 23:27:51 | INFO | Experiment 4 started.
+2026-08-13 23:27:51 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 23:27:51 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 23:27:52 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 23:27:52 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 23:27:52 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 23:27:55 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-13 23:27:55 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-13 23:37:24 | INFO | Experiment 4 started.
+2026-08-13 23:37:24 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 23:37:24 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 23:37:24 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 23:37:24 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 23:37:24 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 23:37:29 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-13 23:37:29 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-13 23:37:29 | INFO | Experiment 4 reproducible generation settings configured: model=llama3.1:8b, temperature=0.2, seed=42, top_k=3.
+2026-08-13 23:39:35 | INFO | Experiment 4 started.
+2026-08-13 23:39:35 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 23:39:35 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 23:39:35 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 23:39:35 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 23:39:35 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 23:39:40 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-13 23:39:40 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-13 23:39:40 | INFO | Experiment 4 reproducible generation settings configured: model=llama3.1:8b, temperature=0.2, seed=42, top_k=3.
+2026-08-13 23:40:54 | INFO | Experiment 4 started.
+2026-08-13 23:40:54 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 23:40:54 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 23:40:54 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 23:40:54 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 23:40:54 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 23:40:58 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-13 23:40:58 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-13 23:40:58 | INFO | Experiment 4 reproducible generation settings configured: model=llama3.1:8b, temperature=0.2, seed=42, top_k=3.
+2026-08-13 23:43:11 | INFO | Experiment 4 started.
+2026-08-13 23:43:11 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-13 23:43:11 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-13 23:43:11 | INFO | Clinical knowledge base loaded successfully.
+2026-08-13 23:43:11 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-13 23:43:11 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-13 23:43:15 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-13 23:43:15 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-13 23:43:15 | INFO | Experiment 4 reproducible generation settings configured: model=llama3.1:8b, temperature=0.2, seed=42, top_k=3.
+2026-08-14 17:09:57 | INFO | Experiment 4 started.
+2026-08-14 17:09:57 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-14 17:09:57 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-14 17:09:57 | INFO | Clinical knowledge base loaded successfully.
+2026-08-14 17:09:57 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-14 17:09:57 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-14 17:10:02 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-14 17:10:02 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-14 17:10:02 | INFO | Experiment 4 reproducible generation settings configured: model=llama3.1:8b, temperature=0.2, seed=42, top_k=3.
+2026-08-14 17:12:17 | INFO | Experiment 4 started.
+2026-08-14 17:12:17 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-14 17:12:17 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-14 17:12:17 | INFO | Clinical knowledge base loaded successfully.
+2026-08-14 17:12:17 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-14 17:12:17 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-14 17:12:22 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-14 17:12:22 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-14 17:12:22 | INFO | Experiment 4 reproducible generation settings configured: model=llama3.1:8b, temperature=0.2, seed=42, top_k=3.
+2026-08-14 17:13:55 | INFO | Agentic AI case completed successfully for Patient 11.
+2026-08-14 17:22:55 | INFO | Experiment 4 started.
+2026-08-14 17:22:55 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-14 17:22:55 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-14 17:22:55 | INFO | Clinical knowledge base loaded successfully.
+2026-08-14 17:22:55 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-14 17:22:55 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-14 17:23:01 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-14 17:23:01 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-14 17:23:01 | INFO | Experiment 4 reproducible generation settings configured: model=llama3.1:8b, temperature=0.2, seed=42, top_k=3.
+2026-08-14 17:24:35 | INFO | Agentic AI case completed successfully for Patient 11.
+2026-08-14 17:26:46 | INFO | Experiment 4 started.
+2026-08-14 17:26:46 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-14 17:26:46 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-14 17:26:46 | INFO | Clinical knowledge base loaded successfully.
+2026-08-14 17:26:46 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-14 17:26:46 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-14 17:26:51 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-14 17:26:51 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-14 17:26:51 | INFO | Experiment 4 reproducible generation settings configured: model=llama3.1:8b, temperature=0.2, seed=42, top_k=3.
+2026-08-14 17:27:46 | INFO | Agentic AI case completed successfully for Patient 11.
+2026-08-14 17:27:46 | INFO | Patient 11 faithfulness validation results saved successfully.
+2026-08-15 22:08:18 | INFO | Experiment 4 started.
+2026-08-15 22:08:18 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-15 22:08:18 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-15 22:08:18 | INFO | Clinical knowledge base loaded successfully.
+2026-08-15 22:08:18 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-15 22:08:18 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-15 22:08:22 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-15 22:08:22 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-15 22:08:22 | INFO | Experiment 4 reproducible generation settings configured: model=llama3.1:8b, temperature=0.2, seed=42, top_k=3.
+2026-08-15 22:10:07 | INFO | Agentic AI case completed successfully for Patient 11.
+2026-08-15 22:10:07 | INFO | Patient 11 faithfulness validation results saved successfully.
+2026-08-15 22:11:21 | INFO | Agentic AI case completed successfully for Patient 7.
+2026-08-15 22:11:21 | INFO | Patient 7 faithfulness validation results saved successfully.
+2026-08-15 22:15:47 | INFO | Experiment 4 started.
+2026-08-15 22:15:47 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-15 22:15:47 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-15 22:15:47 | INFO | Clinical knowledge base loaded successfully.
+2026-08-15 22:15:47 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-15 22:15:47 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-15 22:15:54 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-15 22:15:54 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-15 22:15:54 | INFO | Experiment 4 reproducible generation settings configured: model=llama3.1:8b, temperature=0.2, seed=42, top_k=3.
+2026-08-15 22:16:53 | INFO | Agentic AI case completed successfully for Patient 11.
+2026-08-15 22:16:53 | INFO | Patient 11 faithfulness validation results saved successfully.
+2026-08-15 22:18:06 | INFO | Agentic AI case completed successfully for Patient 7.
+2026-08-15 22:18:06 | INFO | Patient 7 faithfulness validation results saved successfully.
+2026-08-15 22:19:40 | INFO | Agentic AI case completed successfully for Patient 37.
+2026-08-15 22:19:40 | INFO | Patient 37 faithfulness validation results saved successfully.
+2026-08-15 22:24:10 | INFO | Experiment 4 started.
+2026-08-15 22:24:10 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-15 22:24:10 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-15 22:24:10 | INFO | Clinical knowledge base loaded successfully.
+2026-08-15 22:24:10 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-15 22:24:10 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-15 22:24:15 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-15 22:24:16 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-15 22:24:16 | INFO | Experiment 4 reproducible generation settings configured: model=llama3.1:8b, temperature=0.2, seed=42, top_k=3.
+2026-08-15 22:25:17 | INFO | Agentic AI case completed successfully for Patient 11.
+2026-08-15 22:25:17 | INFO | Patient 11 faithfulness validation results saved successfully.
+2026-08-15 22:26:29 | INFO | Agentic AI case completed successfully for Patient 7.
+2026-08-15 22:26:29 | INFO | Patient 7 faithfulness validation results saved successfully.
+2026-08-15 22:27:45 | INFO | Agentic AI case completed successfully for Patient 37.
+2026-08-15 22:27:45 | INFO | Patient 37 faithfulness validation results saved successfully.
+2026-08-15 22:42:53 | INFO | Experiment 4 started.
+2026-08-15 22:42:53 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-15 22:42:53 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-15 22:42:53 | INFO | Clinical knowledge base loaded successfully.
+2026-08-15 22:42:53 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-15 22:42:53 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-15 22:42:57 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-15 22:42:57 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-15 22:42:57 | INFO | Experiment 4 reproducible generation settings configured: model=llama3.1:8b, temperature=0.2, seed=42, top_k=3.
+2026-08-15 22:44:40 | INFO | Agentic AI case completed successfully for Patient 11.
+2026-08-15 22:44:40 | INFO | Patient 11 faithfulness validation results saved successfully.
+2026-08-15 22:45:59 | INFO | Agentic AI case completed successfully for Patient 7.
+2026-08-15 22:45:59 | INFO | Patient 7 faithfulness validation results saved successfully.
+2026-08-15 22:47:31 | INFO | Agentic AI case completed successfully for Patient 37.
+2026-08-15 22:47:31 | INFO | Patient 37 faithfulness validation results saved successfully.
+2026-08-15 22:47:31 | INFO | Experiment 4 Agentic XAI case comparison summary saved successfully.
+2026-08-15 23:20:59 | INFO | Experiment 4 started.
+2026-08-15 23:20:59 | INFO | Required Experiment 4 input files validated successfully.
+2026-08-15 23:20:59 | INFO | Experiment 2 and Experiment 3 outputs loaded successfully.
+2026-08-15 23:20:59 | INFO | Clinical knowledge base loaded successfully.
+2026-08-15 23:20:59 | INFO | Initial evidence retrieval test completed for Patient 11.
+2026-08-15 23:20:59 | INFO | SHAP-driven evidence retrieval completed for Patient 11.
+2026-08-15 23:21:04 | INFO | Patient 11 semantic retrieval results saved successfully.
+2026-08-15 23:21:04 | INFO | Top-3 clinical evidence bundle created for Patient 11.
+2026-08-15 23:21:04 | INFO | Experiment 4 reproducible generation settings configured: model=llama3.1:8b, temperature=0.2, seed=42, top_k=3.
+2026-08-15 23:22:41 | INFO | Agentic AI case completed successfully for Patient 11.
+2026-08-15 23:22:41 | INFO | Patient 11 faithfulness validation results saved successfully.
+2026-08-15 23:24:04 | INFO | Agentic AI case completed successfully for Patient 7.
+2026-08-15 23:24:04 | INFO | Patient 7 faithfulness validation results saved successfully.
+2026-08-15 23:25:39 | INFO | Agentic AI case completed successfully for Patient 37.
+2026-08-15 23:25:39 | INFO | Patient 37 faithfulness validation results saved successfully.
+2026-08-15 23:25:39 | INFO | Experiment 4 Agentic XAI case comparison summary saved successfully.

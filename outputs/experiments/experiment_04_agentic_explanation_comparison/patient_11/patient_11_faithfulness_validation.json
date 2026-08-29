@@ -1,0 +1,52 @@
+{
+    "Validation_Status": "FLAGGED",
+    "Number_of_Flags": 3,
+    "Flags": [
+        {
+            "Flag_Type": "Unsupported_SHAP_Interpretation",
+            "Term": "younger",
+            "Reason": "SHAP direction indicates contribution towards a prediction class but does not independently justify this interpretation of the underlying feature value."
+        },
+        {
+            "Flag_Type": "Unsupported_SHAP_Interpretation",
+            "Term": "older",
+            "Reason": "SHAP direction indicates contribution towards a prediction class but does not independently justify this interpretation of the underlying feature value."
+        },
+        {
+            "Flag_Type": "Unsupported_SHAP_Interpretation",
+            "Term": "better",
+            "Reason": "SHAP direction indicates contribution towards a prediction class but does not independently justify this interpretation of the underlying feature value."
+        }
+    ],
+    "Predicted_Probability": 0.5072828093182383,
+    "Distance_From_Threshold": 0.007282809318238326,
+    "Borderline_Margin": 0.05,
+    "Expected_Borderline_Status": true,
+    "SHAP_Direction_Audit": [
+        {
+            "Feature": "Total_Abnormal_Neuro_Findings",
+            "SHAP_Value": 0.0729290959254769,
+            "Expected_Direction": "towards moderate/high disability"
+        },
+        {
+            "Feature": "Age_of_onset",
+            "SHAP_Value": -0.0366162893783618,
+            "Expected_Direction": "towards low disability"
+        },
+        {
+            "Feature": "Age",
+            "SHAP_Value": -0.0259823240471767,
+            "Expected_Direction": "towards low disability"
+        },
+        {
+            "Feature": "Coordination",
+            "SHAP_Value": -0.024668906269762,
+            "Expected_Direction": "towards low disability"
+        },
+        {
+            "Feature": "Motor_System",
+            "SHAP_Value": 0.0233182335206193,
+            "Expected_Direction": "towards moderate/high disability"
+        }
+    ]
+}

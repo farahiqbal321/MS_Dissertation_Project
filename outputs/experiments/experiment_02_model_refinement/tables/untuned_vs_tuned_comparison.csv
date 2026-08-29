@@ -1,0 +1,9 @@
+Candidate,Feature_Set,Mean_CV_Accuracy,Mean_CV_F1,Mean_CV_ROC_AUC,SD_CV_ROC_AUC,Train_Validation_Accuracy_Gap,Model_Stage
+Clinical Logistic Regression,Clinical,0.7344,0.6937,0.8246,0.1374,0.0448,Tuned
+Clinical Logistic Regression,Clinical,0.7189,0.6638,0.7703,0.1408,0.2754,Untuned
+Clinical Random Forest,Clinical,0.7464,0.7193,0.8303,0.1351,0.0947,Tuned
+Clinical Random Forest,Clinical,0.7124,0.6708,0.8065,0.1395,0.2876,Untuned
+Clinical Support Vector Machine,Clinical,0.5378,0.2462,0.8202,0.1289,-0.0263,Tuned
+Clinical Support Vector Machine,Clinical,0.6782,0.6383,0.7793,0.1434,0.3051,Untuned
+Multimodal XGBoost,Multimodal,0.5656,0.0566,0.8008,0.1449,0.0605,Tuned
+Multimodal XGBoost,Multimodal,0.6833,0.5831,0.786,0.1687,0.3167,Untuned

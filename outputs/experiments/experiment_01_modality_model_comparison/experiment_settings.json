@@ -1,0 +1,24 @@
+{
+    "experiment": "Experiment 1: Modality and Model Comparison",
+    "random_state": 42,
+    "test_size": 0.2,
+    "cross_validation_folds": 5,
+    "cross_validation_strategy": "StratifiedKFold with shuffling",
+    "training_patients": 48,
+    "test_patients": 12,
+    "clinical_feature_count": 27,
+    "mri_feature_count": 8,
+    "multimodal_feature_count": 35,
+    "constant_features_removed": [
+        "Fields"
+    ],
+    "models": [
+        "Logistic Regression",
+        "Decision Tree",
+        "Random Forest",
+        "Gradient Boosting",
+        "XGBoost",
+        "Support Vector Machine"
+    ],
+    "test_set_used_for_model_selection": false
+}

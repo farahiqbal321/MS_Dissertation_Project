@@ -1,0 +1,44 @@
+Importance_Rank,Transformed_Feature,Mean_Absolute_SHAP
+1,Total_Abnormal_Neuro_Findings,0.08118
+2,Age_of_onset,0.032169
+3,Motor_System,0.032163
+4,Coordination,0.02949
+5,Age,0.021541
+6,Cerebella,0.017084
+7,Presenting_Symptom_Sensory,0.014966
+8,Sensory,0.009346
+9,Pyramidal,0.00899
+10,Presenting_Symptom_Motor,0.00823
+11,Visual,0.008072
+12,Gait,0.007384
+13,Sensory_System,0.004741
+14,Types_of_Medicines_Rebif,0.004046
+15,Types_of_Medicines_Betaferon,0.003016
+16,Disease_Duration,0.00294
+17,Presenting_Symptom_Visual,0.002289
+18,Sphincters,0.001734
+19,Optic_discs,0.000881
+20,Co_morbidity_No,0.000857
+21,Gender_F,0.000703
+22,Nystagmus,0.000625
+23,Gender_M,0.00038
+24,Bowel_and_bladder_function,0.000352
+25,Types_of_Medicines_Gelenia,0.000263
+26,Brain_stem,0.0
+27,Mental,0.0
+28,Speech,0.0
+29,Types_of_Medicines_Avonex,0.0
+30,Swallowing,0.0
+31,Mobility,0.0
+32,Mental_State,0.0
+33,Ocular_Movement,0.0
+34,Presenting_Symptom_Balance,0.0
+35,Types_of_Medicines_Tysabri,0.0
+36,Presenting_Symptom_Motor & Visual,0.0
+37,Presenting_Symptom_Motor & Sensory,0.0
+38,Presenting_Symptom_Motor & Behavioural,0.0
+39,Presenting_Symptom_Pain,0.0
+40,Presenting_Symptom_Sensory & Visual,0.0
+41,Presenting_Symptom_Sensory & Motor,0.0
+42,"Presenting_Symptom_Sensory & Visual ,Balance , Motor, Sexual,Fatigue",0.0
+43,Co_morbidity_Yes,0.0

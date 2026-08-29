@@ -1,0 +1,51 @@
+{
+    "7": {
+        "validation_status": "PASS",
+        "number_of_flags": 0,
+        "flags": [],
+        "flag_descriptions": [],
+        "correction_instruction": "No predefined faithfulness violations were detected. Preserve the original explanation without introducing new clinical claims."
+    },
+    "11": {
+        "validation_status": "FLAGGED",
+        "number_of_flags": 3,
+        "flags": [
+            {
+                "Flag_Type": "Unsupported_SHAP_Interpretation",
+                "Term": "younger",
+                "Reason": "SHAP direction indicates contribution towards a prediction class but does not independently justify this interpretation of the underlying feature value."
+            },
+            {
+                "Flag_Type": "Unsupported_SHAP_Interpretation",
+                "Term": "older",
+                "Reason": "SHAP direction indicates contribution towards a prediction class but does not independently justify this interpretation of the underlying feature value."
+            },
+            {
+                "Flag_Type": "Unsupported_SHAP_Interpretation",
+                "Term": "better",
+                "Reason": "SHAP direction indicates contribution towards a prediction class but does not independently justify this interpretation of the underlying feature value."
+            }
+        ],
+        "flag_descriptions": [
+            "Flag 1: Term = 'younger'. Reason = SHAP direction indicates contribution towards a prediction class but does not independently justify this interpretation of the underlying feature value.",
+            "Flag 2: Term = 'older'. Reason = SHAP direction indicates contribution towards a prediction class but does not independently justify this interpretation of the underlying feature value.",
+            "Flag 3: Term = 'better'. Reason = SHAP direction indicates contribution towards a prediction class but does not independently justify this interpretation of the underlying feature value."
+        ],
+        "correction_instruction": "The original explanation failed the automated faithfulness validation. Revise only the unsupported or over-interpreted statements identified below. Preserve statements that are supported by the SHAP results and retrieved clinical evidence. Do not invent new patient information, causal relationships, diagnoses, treatment recommendations, or unsupported clinical claims.\n\nVALIDATION FEEDBACK:\nFlag 1: Term = 'younger'. Reason = SHAP direction indicates contribution towards a prediction class but does not independently justify this interpretation of the underlying feature value.\nFlag 2: Term = 'older'. Reason = SHAP direction indicates contribution towards a prediction class but does not independently justify this interpretation of the underlying feature value.\nFlag 3: Term = 'better'. Reason = SHAP direction indicates contribution towards a prediction class but does not independently justify this interpretation of the underlying feature value."
+    },
+    "37": {
+        "validation_status": "FLAGGED",
+        "number_of_flags": 1,
+        "flags": [
+            {
+                "Flag_Type": "Unsupported_Uncertainty_Interpretation",
+                "Term": "borderline/close to threshold",
+                "Reason": "The predicted probability is 0.1659, which is 0.3341 away from the 0.50 classification threshold and therefore falls outside the predefined borderline margin of +/- 0.05."
+            }
+        ],
+        "flag_descriptions": [
+            "Flag 1: Term = 'borderline/close to threshold'. Reason = The predicted probability is 0.1659, which is 0.3341 away from the 0.50 classification threshold and therefore falls outside the predefined borderline margin of +/- 0.05."
+        ],
+        "correction_instruction": "The original explanation failed the automated faithfulness validation. Revise only the unsupported or over-interpreted statements identified below. Preserve statements that are supported by the SHAP results and retrieved clinical evidence. Do not invent new patient information, causal relationships, diagnoses, treatment recommendations, or unsupported clinical claims.\n\nVALIDATION FEEDBACK:\nFlag 1: Term = 'borderline/close to threshold'. Reason = The predicted probability is 0.1659, which is 0.3341 away from the 0.50 classification threshold and therefore falls outside the predefined borderline margin of +/- 0.05."
+    }
+}

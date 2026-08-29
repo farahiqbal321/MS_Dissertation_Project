@@ -1,0 +1,16 @@
+Scenario,Patient_ID,LIME_Feature_Condition,LIME_Weight,Absolute_LIME_Weight,Direction
+Borderline,11,Total_Abnormal_Neuro_Findings > 0.73,0.09882953834469675,0.09882953834469675,Towards Moderate/High Disability
+Borderline,11,Coordination <= -0.67,-0.0630129916518924,0.0630129916518924,Towards Low Disability
+Borderline,11,Age_of_onset <= -0.94,-0.04054744686286926,0.04054744686286926,Towards Low Disability
+Borderline,11,Cerebella <= -0.64,-0.03531142009266529,0.03531142009266529,Towards Low Disability
+Borderline,11,Presenting_Symptom_Sensory <= 0.00,0.03221580118455927,0.03221580118455927,Towards Moderate/High Disability
+Borderline,11,-1.00 < Age <= 0.06,-0.026520685433832944,0.026520685433832944,Towards Low Disability
+Borderline,11,Presenting_Symptom_Motor <= 0.00,-0.024962652865053277,0.024962652865053277,Towards Low Disability
+Borderline,11,Sensory <= -0.67,-0.019282616443066166,0.019282616443066166,Towards Low Disability
+Borderline,11,Sensory_System <= -0.64,-0.014397730103703427,0.014397730103703427,Towards Low Disability
+Borderline,11,-0.71 < Visual <= 1.41,0.013863060577150208,0.013863060577150208,Towards Moderate/High Disability
+Borderline,11,-0.64 < Gait <= 1.56,0.011937643947182825,0.011937643947182825,Towards Moderate/High Disability
+Borderline,11,Mental <= -0.21,-0.011644872134357375,0.011644872134357375,Towards Low Disability
+Borderline,11,Types_of_Medicines_Betaferon <= 0.00,-0.009129450733214528,0.009129450733214528,Towards Low Disability
+Borderline,11,Sphincters > -0.45,0.008951597054981877,0.008951597054981877,Towards Moderate/High Disability
+Borderline,11,Presenting_Symptom_Visual > 0.25,-0.006136748145834316,0.006136748145834316,Towards Low Disability

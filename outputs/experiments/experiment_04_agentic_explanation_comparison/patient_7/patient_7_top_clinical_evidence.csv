@@ -1,0 +1,4 @@
+Chunk_ID,Source_ID,Topic,Evidence_Text,Semantic_Similarity,Semantic_Rank
+NG220_003,NICE_NG220,Motor and coordination function,"Comprehensive review of multiple sclerosis should consider mobility, balance, upper-limb function and other neurological or functional difficulties relevant to the individual patient.",0.7456552,1
+NG220_001,NICE_NG220,Neurological assessment,"Multiple sclerosis may affect multiple neurological and functional domains, and clinical assessment should consider patient history, physical examination and neurological symptoms.",0.59855676,2
+NG220_002,NICE_NG220,Disability assessment,The nature and extent of disability should be documented as part of the comprehensive review of a person with multiple sclerosis.,0.5793177,3

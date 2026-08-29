@@ -1,0 +1,36 @@
+{
+    "Validation_Status": "PASS",
+    "Number_of_Flags": 0,
+    "Flags": [],
+    "Predicted_Probability": 0.7243029394976479,
+    "Distance_From_Threshold": 0.2243029394976479,
+    "Borderline_Margin": 0.05,
+    "Expected_Borderline_Status": false,
+    "SHAP_Direction_Audit": [
+        {
+            "Feature": "Total_Abnormal_Neuro_Findings",
+            "SHAP_Value": 0.0671095535433222,
+            "Expected_Direction": "towards moderate/high disability"
+        },
+        {
+            "Feature": "Age_of_onset",
+            "SHAP_Value": 0.0446579722997712,
+            "Expected_Direction": "towards moderate/high disability"
+        },
+        {
+            "Feature": "Coordination",
+            "SHAP_Value": 0.0390915450633061,
+            "Expected_Direction": "towards moderate/high disability"
+        },
+        {
+            "Feature": "Age",
+            "SHAP_Value": 0.0275551194440637,
+            "Expected_Direction": "towards moderate/high disability"
+        },
+        {
+            "Feature": "Motor_System",
+            "SHAP_Value": 0.02507401429808,
+            "Expected_Direction": "towards moderate/high disability"
+        }
+    ]
+}

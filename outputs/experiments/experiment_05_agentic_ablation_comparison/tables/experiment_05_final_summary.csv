@@ -1,0 +1,6 @@
+Metric,No-RAG,With-RAG,Difference
+Mean word count,295.667,297.333,1.6660000000000537
+Mean SHAP feature coverage (%),100.0,100.0,0.0
+Mean section coverage (%),61.1,66.7,5.600000000000001
+Mean evidence ID mentions,0.0,3.0,3.0
+Total faithfulness flags,3.0,3.0,0.0

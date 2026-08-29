@@ -1,0 +1,4 @@
+Patient_ID,Original_Status,Original_Flags,Corrected_Status,Corrected_Flags,Flag_Reduction,Improved
+7,PASS,0,PASS,0,0,False
+11,FLAGGED,3,PASS,0,3,True
+37,FLAGGED,1,FLAGGED,1,0,False

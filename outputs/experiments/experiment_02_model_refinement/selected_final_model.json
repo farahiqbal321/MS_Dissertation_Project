@@ -1,0 +1,8 @@
+{
+    "Selected_Model": "Clinical Random Forest",
+    "Feature_Set": "Clinical",
+    "ROC_AUC": 0.8303,
+    "Accuracy": 0.7464,
+    "F1": 0.7193,
+    "Reason": "Highest repeated cross-validation ROC-AUC with strong balanced performance."
+}

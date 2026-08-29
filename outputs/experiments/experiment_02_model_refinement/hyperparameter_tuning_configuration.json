@@ -1,0 +1,12 @@
+{
+    "search_method": "RandomizedSearchCV",
+    "number_of_candidates": 4,
+    "parameter_samples_per_candidate": 20,
+    "inner_cross_validation": "StratifiedKFold",
+    "inner_cv_folds": 5,
+    "refit_metric": "roc_auc",
+    "random_state": 42,
+    "training_patients": 48,
+    "held_out_test_used": false,
+    "estimated_candidate_fold_fits": 400
+}

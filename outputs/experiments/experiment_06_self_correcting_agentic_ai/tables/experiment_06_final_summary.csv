@@ -1,0 +1,4 @@
+Patient_ID,Baseline_Status,Baseline_Flags,Attempt_1_Status,Attempt_1_Flags,Attempt_2_Status,Attempt_2_Flags,Correction_Attempts,Final_Status,Final_Flags,Total_Flag_Reduction
+7,PASS,0,PASS,0,NOT REQUIRED,,0,PASS,0,0
+11,FLAGGED,3,PASS,0,NOT REQUIRED,,1,PASS,0,3
+37,FLAGGED,1,FLAGGED,1,PASS,0.0,2,PASS,0,1

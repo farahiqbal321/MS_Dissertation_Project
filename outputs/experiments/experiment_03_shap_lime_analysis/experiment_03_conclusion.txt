@@ -1,0 +1,13 @@
+Experiment 3 evaluated the explainability of the selected Clinical Random Forest model using SHAP, LIME and permutation importance.
+
+The model used the Clinical feature set. Global SHAP identified Total_Abnormal_Neuro_Findings as the most influential transformed feature for predicting moderate/high disability. Permutation importance also identified Total_Abnormal_Neuro_Findings as the most influential original clinical feature.
+
+Local SHAP waterfall plots and LIME explanations were generated for three representative cases: a confidently predicted low-disability patient, a confidently predicted moderate/high-disability patient and a borderline case with a predicted probability close to the classification threshold.
+
+The local analyses showed that feature contributions could operate in opposing directions within the same patient. This was particularly evident in the borderline case, where some features increased the predicted probability of moderate/high disability while others reduced it.
+
+The SHAP-LIME comparison demonstrated meaningful overlap between the most influential local features and generally strong agreement in contribution direction. The global SHAP-permutation comparison also showed agreement for several important clinical variables, including the top-ranked neurological finding measure.
+
+These findings indicate that the selected Random Forest model can generate interpretable global and patient-level explanations. However, the explanations describe the model's behaviour within this dataset and should not be interpreted as clinical diagnoses or causal relationships.
+
+The held-out test set was not used during Experiment 3.

@@ -1,0 +1,33 @@
+**Prediction Summary**
+
+The machine-learning prediction for patient 37 indicates a low probability of moderate/high disability, with a predicted probability of 0.1659.
+
+**Main Factors Supporting Moderate/High Disability**
+
+There are no significant factors supporting moderate/high disability in this patient's model explanation.
+
+**Main Factors Supporting Low Disability**
+
+The SHAP contributions suggest that the following features contribute towards low disability:
+
+* Total_Abnormal_Neuro_Findings: -0.1071 (towards low disability)
+* Motor_System: -0.0439 (towards low disability)
+* Age_of_onset: -0.0356 (towards low disability)
+* Coordination: -0.0278 (towards low disability)
+* Age: -0.0252 (towards low disability)
+
+**Clinical Context from Retrieved Evidence**
+
+The retrieved clinical evidence highlights the importance of considering multiple neurological and functional domains in the assessment of patients with multiple sclerosis [NG220_001]. The nature and extent of disability should be documented as part of a comprehensive review [NG220_002]. Additionally, motor and coordination function should be considered in the comprehensive review [NG220_003].
+
+**Uncertainty and Limitations**
+
+The predicted probability is 0.1659, indicating a low likelihood of moderate/high disability.
+
+**Decision-Support Summary**
+
+This machine-learning prediction should be interpreted within the patient's existing clinical assessment and alongside the retrieved clinical evidence. The predicted probability of moderate/high disability is low (0.1659), suggesting that the patient may have a lower risk of significant disability. However, it is crucial to consider the comprehensive review of multiple sclerosis, including motor and coordination function, as part of the clinical assessment [NG220_003]. This prediction should not replace professional clinical judgment.
+
+**Disclaimer**
+
+This output is intended to support, not replace, professional clinical judgement. The model's predictions are based on the provided data and may not reflect the patient's actual condition or future disease progression.

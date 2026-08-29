@@ -1,0 +1,21 @@
+{
+    "experiment": "Experiment 2: Model Refinement",
+    "training_patients": 48,
+    "held_out_test_patients": 12,
+    "held_out_test_used_during_tuning": false,
+    "repeated_cv_folds": 5,
+    "repeated_cv_repeats": 10,
+    "total_validation_folds_per_candidate": 50,
+    "random_state": 42,
+    "constant_features_removed": [
+        "Fields"
+    ],
+    "clinical_feature_count": 27,
+    "multimodal_feature_count": 35,
+    "candidate_models": [
+        "Clinical Logistic Regression",
+        "Clinical Random Forest",
+        "Clinical Support Vector Machine",
+        "Multimodal XGBoost"
+    ]
+}
